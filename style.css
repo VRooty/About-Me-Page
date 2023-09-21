@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, Times, "Times New Roman", serif;
   background-color: mistyrose;
   text-align: center;
 }
@@ -25,12 +25,12 @@ header {
   color: rgb(0, 0, 0);
 }
 
-#NewThings {
+.NewThings {
   background-color: rgb(141, 103, 56);
   color: rgb(0, 0, 0);
 }
 
-#Quiz {
+.Quiz {
   background-color: rgb(233, 85, 85);
   color: rgb(0, 0, 0);
   padding-right: 16px;
